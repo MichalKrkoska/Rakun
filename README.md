@@ -6,3 +6,5 @@ Rakun is a fictional music publishing house, whose logo is made up of 146 square
 
 ## What is Rakun game?
 The Rakun game operates in the interface of an iconic Minesweeper game, that one can remember from old Windows devices. The game simulates the original, yet is made to annoy the player as much as possible. The goal of the game is to correctly fill out the logo square by square. In order to win, the player has to correctly click through all of the individual squares and not make a mistake, otherwise they have to start over.
+
+-17.04.2022-
