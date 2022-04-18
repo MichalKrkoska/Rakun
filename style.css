@@ -34,19 +34,19 @@ body {
 }
 
 .board > [data-status="hidden"] {
-  background-image: url("hidden.png");
+  background-image: url("assets/hidden.png");
   background-repeat: no-repeat;
   background-size: contain;
 }
 
 .board > [data-status="mine"] {
-  background-image: url("mine.png");
+  background-image: url("assets/mine.png");
   background-repeat: no-repeat;
   background-size: contain;
 }
 
 .board > [data-status="correct"] {
-  background-image: url("correct.png");
+  background-image: url("assets/correct.png");
   background-repeat: no-repeat;
   background-size: contain;
 }
